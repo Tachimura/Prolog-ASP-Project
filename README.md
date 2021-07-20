@@ -1,1 +1,1 @@
-# Prolog---ASP-Project
+# Prolog-ASP-Project
