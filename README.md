@@ -7,13 +7,12 @@ It contains the implementation of various algorithms:
 - BSF
 - Iterative Deepening
 - A*
-- IDA*
-<br>
+- IDA*<br>
 There are 2 heuristics we can choose from:
 - Number of different blocks
 - Manhattan distance (best one)
 
 ## ASP
-It contains my solution to the calendar problem
-It is pretty fast (less than 30 secs needed to find a model) and is absolutly generic
+It contains my solution to the calendar problem<br>
+It is pretty fast (less than 30 secs needed to find a model) and is absolutly generic<br>
 Easy to expand or to modify
