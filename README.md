@@ -7,7 +7,8 @@ It contains the implementation of various algorithms:
 - BSF
 - Iterative Deepening
 - A*
-- IDA*<br>
+- IDA*
+<br>
 There are 2 heuristics we can choose from:
 - Number of different blocks
 - Manhattan distance (best one)
