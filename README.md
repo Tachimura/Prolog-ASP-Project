@@ -8,6 +8,7 @@ It contains the implementation of various algorithms:
 - Iterative Deepening
 - A*
 - IDA*
+<br>
 There are 2 heuristics we can choose from:
 - Number of different blocks
 - Manhattan distance (best one)
