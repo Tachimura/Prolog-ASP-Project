@@ -9,7 +9,7 @@ It contains the implementation of various algorithms:
 - A*
 - IDA*
 <br>
-There are 2 heuristics we can choose from:
+There are 2 heuristics we can choose from:<br>
 - Number of different blocks
 - Manhattan distance (best one)
 
