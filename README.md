@@ -10,7 +10,7 @@ It contains the implementation of various algorithms:
 - IDA*
 <br>
 There are 2 heuristics we can choose from:<br>
-- Number of different blocks
+- Number of different blocks<br>
 - Manhattan distance (best one)
 
 ## ASP
